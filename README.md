@@ -36,6 +36,9 @@ I like bread and sugar the most that is the primary reason for me to like this d
 * once payment is done .Collect the reciept.
 * put all the items in the cart and walk towards exit.
 
+Image in Read me<br>
+[link to about me](https://github.com/Maruthi158/assignment2-Maruthi/blob/main/AboutMe.md)
+
 
 
 
