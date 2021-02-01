@@ -56,6 +56,18 @@ This data present in table mainly speaks about popular places to explore and vis
 
 > Be loud about the things that are important to you by *Karen Walrond*
 
+---
+# Code Fencing Implementation:
+> Java is an Object oriented Programming Language.Its encapsulation feature is the best quality.Link to the java source <https://www.tutorialspoint.com/java/lang/index.htm>
+```
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
+```
+
+
 
 
 
