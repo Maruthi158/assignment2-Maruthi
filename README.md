@@ -22,6 +22,21 @@ I like bread and sugar the most that is the primary reason for me to like this d
     1. It will take atleast 10 mins.
     2. Now add fried cashews, give a quick stir and switch off.
 
+---
+# Ordered list for steps to do shop grocery 
+* Go to the Grocery store where you want to shop
+    * select item to shop
+    * pick up the item from the respective section
+    * put it in the cart
+* Head to the billing counter once shopping is done
+* pay the bill for all the items purchased so far.
+* payment can be processed in two modes:
+    * Card
+    * Cash
+* once payment is done .Collect the reciept.
+* put all the items in the cart and walk towards exit.
+
+
 
 
 
