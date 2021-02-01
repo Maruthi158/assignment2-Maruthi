@@ -50,6 +50,11 @@ This data present in table mainly speaks about popular places to explore and vis
 |Niagara Falls|36|600|
 |Downtown|08|200|
 
+---
+# Pithy Quotes Implementation:BestQuotes
+> Good decisions come from experience.Experience comes from making Bad decisions by *Mark Twain*
+> Be loud about the things that are important to you by *Karen Walrond*
+
 
 
 
