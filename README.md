@@ -53,6 +53,7 @@ This data present in table mainly speaks about popular places to explore and vis
 ---
 # Pithy Quotes Implementation:BestQuotes
 > Good decisions come from experience.Experience comes from making Bad decisions by *Mark Twain*
+
 > Be loud about the things that are important to you by *Karen Walrond*
 
 
