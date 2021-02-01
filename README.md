@@ -58,7 +58,7 @@ This data present in table mainly speaks about popular places to explore and vis
 
 ---
 # Code Fencing Implementation:
-> Java is an Object oriented Programming Language.Its encapsulation feature is the best quality.Link to the java source <https://www.tutorialspoint.com/java/lang/index.htm>
+> Java is an Object oriented Programming Language.Its encapsulation feature is the best quality.Quick Link to the java source: <https://www.tutorialspoint.com/java/lang/index.htm>
 ```
 class HelloWorld {
     public static void main(String[] args) {
@@ -66,6 +66,8 @@ class HelloWorld {
     }
 }
 ```
+Quick Link for code source:<https://www.programiz.com/java-programming/hello-world>
+
 
 
 
