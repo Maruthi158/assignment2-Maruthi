@@ -39,6 +39,19 @@ I like bread and sugar the most that is the primary reason for me to like this d
 Link to Image in Read me :<br>
 [link to about me](https://github.com/Maruthi158/assignment2-Maruthi/blob/main/AboutMe.md)
 
+---
+# Table Related information about popular places  visiting
+
+This data present in table mainly speaks about popular places to explore and visit.Mainly the table has information regarding the names of popular places to visit in United States.<br>
+|location|number of hours|money expected to pay|
+|---|---|---|
+|Statue of liberty|10|200|
+|Lake Geneva|08|100|
+|Niagara Falls|36|600|
+|Downtown|08|200|
+
+
+
 
 
 
