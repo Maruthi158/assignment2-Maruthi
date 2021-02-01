@@ -23,7 +23,7 @@ I like bread and sugar the most that is the primary reason for me to like this d
     2. Now add fried cashews, give a quick stir and switch off.
 
 ---
-# unOrdered list for steps to do shop grocery 
+# Unordered list for steps to do shop grocery 
 * Go to the Grocery store where you want to shop
     * select item to shop
     * pick up the item from the respective section
