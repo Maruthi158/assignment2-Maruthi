@@ -69,10 +69,10 @@ class HelloWorld {
 Quick Link for code source:<https://www.programiz.com/java-programming/hello-world>
 
 # bonus for images folder
-![Images for Statue of liberty](images\statue_of.jpg)
-![Images for Lake Geneva](images\Lake_Geneva.jpg)
-![Images for Niagara Falls](images\niagara_falls.jpg)
-![Images for downtown](images\downtown.jpg)
+![Statue of liberty](/images\statue_of.jpg)
+![Lake Geneva](/images\Lake_Geneva.jpg)
+![Niagara Falls](/images\niagara_falls.jpg)
+![downtown](/images\downtown.jpg)
 
 
 
