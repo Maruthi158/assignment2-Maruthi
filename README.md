@@ -70,9 +70,9 @@ Quick Link for code source:<https://www.programiz.com/java-programming/hello-wor
 
 # bonus for images folder
 ![Statue of liberty](C:\Users\S541905\Desktop\Priyanka\1-1\WEB APPS\webapps-repos\assignment2-Maruthi\images)
-![Lake Geneva](\images\Lake_Geneva.jpg)
-![Niagara Falls](\images\niagara_falls.jpg)
-![downtown](\images\downtown.jpg)
+![Lake Geneva](/images/Lake_Geneva.jpg)
+![Niagara Falls](/images\niagara_falls.jpg)
+![downtown](/images\downtown.jpg)
 
 
 
